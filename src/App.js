@@ -17,7 +17,7 @@ function App() {
       <Route path="/project" element={<Projects />}/>
       <Route path="/contact" element={<Contact />}/>     
     </Routes>
-   </>
+   <div/>
   )
 }
 export default App;
